@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+
+# Dump output directories & logs
+output/
+Output/
+extracted/
+*.log
+
+# Android packages & extracted binaries
+*.xapk
+*.apks
+*.apk
+*.zip
+*.so
+*.dex
+*.dat
+*.viv
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
